@@ -54,5 +54,9 @@ Natural Language Processing (NLP), Generative AI
 
 ---
 
-### 👀 Looking for Data Science & Generative AI roles!  
-I am actively seeking opportunities in **Data Science, Generative AI, and Machine Learning Engineering** roles. If you're looking for someone who can **develop AI-powered solutions, optimize ML models, and build scalable data pipelines**, feel free to connect! 🚀  
+## 🌍 Let's Collaborate & Make an Impact!  
+🔍 Passionate about **data-driven innovation, AI research, and solving real-world challenges**?  
+💡 Let’s **connect, brainstorm, and build solutions** that drive **meaningful change through AI & Data Science**!  
+🚀 Whether it’s **collaborating on ML projects, discussing cutting-edge AI trends, or open-source contributions**, I’d love to connect and exchange ideas.  
+
+✨ **Let’s turn data into powerful insights and shape a smarter future—together!**  
