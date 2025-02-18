@@ -12,7 +12,7 @@
 - 🏆 Built **predictive models** that improved house price accuracy by **10% RMSE reduction**  
 - 🛠️ Developed **end-to-end data pipelines** for processing **1 lakh+ property records**  
 - ⚡ Experience with **LLMs, GPT-based models, and fine-tuning transformer architectures**  
-- 📊 **Expertise in:** Python, SQL, XGBoost, Scikit-learn, PyTorch, NLP, Generative AI, Snowflake, Flask, Scrapy  
+- 📊 **Expertise in:** Python, SQL, NLP, Scikit-learn, PyTorch, NLP, Generative AI, Snowflake, Flask, Scrapy  
 
 ---
 
