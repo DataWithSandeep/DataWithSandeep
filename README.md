@@ -46,7 +46,7 @@ Natural Language Processing (NLP), Generative AI
 🔹 **Data Visualization:** Power BI, Matplotlib, Seaborn  
 🔹 **Cloud & Deployment:** AWS, EC2, Docker, Flask, FastAPI, Bitbucket, Git  
 
----
+----
 
 ## 📬 Let's Connect!  
 💼 **LinkedIn:** [linkedin.com/in/sandeep-choudhary22](https://www.linkedin.com/in/sandeep-choudhary22/)  
